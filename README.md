@@ -10,7 +10,7 @@ In this course, you will learn how to install and deploy Hadoop, and how to use 
 
 ## Scenarios
 
-|   Index | Name                                  | Difficulty   | URL                                                                        |
+|   Index | Name                                  | Difficulty   | Practice                                                                   |
 |---------|---------------------------------------|--------------|----------------------------------------------------------------------------|
 |       1 | 📖 Hadoop Installation and Deployment  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/272321'>Start Lab</a>       |
 |       2 | 🎯 Hadoop System Deployment            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/272365'>Start Challenge</a> |
@@ -18,4 +18,9 @@ In this course, you will learn how to install and deploy Hadoop, and how to use 
 |       4 | 📖 YARN Architecture and Development   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/272324'>Start Lab</a>       |
 |       5 | 📖 Quick Start to Hive                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/272323'>Start Lab</a>       |
 |       6 | 🎯 Import Data to Hive                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/272367'>Start Challenge</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Hadoop Free Tutorials](https://github.com/labex-labs/hadoop-free-tutorials)
 
