@@ -1,6 +1,6 @@
 # Quick Start with Hadoop
 
-![Quick Start with Hadoop](https://cover-creator.labex.io/quick-start-with-hadoop.png)
+![Quick Start with Hadoop](https://cover-creator.appbot.io/quick-start-with-hadoop.png)
 
 In this course, you will learn how to install and deploy Hadoop, and how to use Hadoop to process and analyze big data. We will also introduce Hadoop's ecosystem, including HDFS, YARN, Hive, and HBase.
 
