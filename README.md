@@ -21,7 +21,7 @@ In this course, you will learn how to install and deploy Hadoop, and how to use 
 
 ## More
 
-- 🔗 [Hadoop Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Hadoop Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Hadoop Free Tutorials](https://github.com/labex-labs/hadoop-free-tutorials)
+- 🔗 [Big Data Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Big Data Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Big Data Free Tutorials](https://github.com/labex-labs/bigdata-free-tutorials)
 
