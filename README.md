@@ -29,11 +29,11 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |   Index | Name                                  | Difficulty   | Practice                                                                                                             |
 |---------|---------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------|
 |       1 | 📖 Hadoop Installation and Deployment  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/hadoop-hadoop-installation-and-deployment-272321'>Start Lab</a>  |
-|       2 | 🎯 Hadoop System Deployment            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/hadoop-hadoop-system-deployment-272365'>Start Challenge</a>      |
+|       2 | 🎯 Hadoop System Deployment            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/hadoop-hadoop-system-deployment-272365'>Start Challenge</a>           |
 |       3 | 📖 Architecture and Operations of HDFS | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/hadoop-architecture-and-operations-of-hdfs-272320'>Start Lab</a> |
 |       4 | 📖 YARN Architecture and Development   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-yarn-architecture-and-development-272324'>Start Lab</a>    |
 |       5 | 📖 Quick Start to Hive                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-quick-start-to-hive-272323'>Start Lab</a>                  |
-|       6 | 🎯 Import Data to Hive                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/import-data-to-hive-272367'>Start Challenge</a>                  |
+|       6 | 🎯 Import Data to Hive                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/import-data-to-hive-272367'>Start Challenge</a>                       |
 
 ## More
 
