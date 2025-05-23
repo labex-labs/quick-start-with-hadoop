@@ -26,22 +26,22 @@ LabEx 是一个专注于编程和技术的交互式动手学习平台。它结�
 - 不断增长的学习资源，包含 30 个技能树和超过 6,000 个实验。
 - 基于 ChatGPT 构建的 AI 学习助手 Labby，提供对话式学习体验。
 
-了解更多关于 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+了解更多 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
 
 ## 练习
 
 |   序号 | 名称                 | 难度   | 练习                                                                                                                   |
 |--------|----------------------|--------|------------------------------------------------------------------------------------------------------------------------|
-|      1 | 📖 Hadoop 安装与部署 | ★★★    | <a target='_blank' href='https://labex.io/zh/tutorials/linux-hadoop-installation-and-deployment-272321'>开始实验</a>   |
-|      2 | 🎯 Hadoop 系统部署   | ★☆☆    | <a target='_blank' href='https://labex.io/zh/labs/hadoop-hadoop-system-deployment-272365'>开始挑战</a>                 |
-|      3 | 📖 HDFS 架构与操作   | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/hadoop-architecture-and-operations-of-hdfs-272320'>开始实验</a> |
-|      4 | 📖 YARN 架构与开发   | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/linux-yarn-architecture-and-development-272324'>开始实验</a>    |
-|      5 | 📖 Hive 快速入门     | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/linux-quick-start-to-hive-272323'>开始实验</a>                  |
-|      6 | 🎯 向 Hive 导入数据  | ★☆☆    | <a target='_blank' href='https://labex.io/zh/labs/import-data-to-hive-272367'>开始挑战</a>                             |
+|      1 | 📖 Hadoop 安装与部署 | 高级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-hadoop-installation-and-deployment-272321'>开始实验</a>   |
+|      2 | 🎯 Hadoop 系统部署   | 初级   | <a target='_blank' href='https://labex.io/zh/labs/hadoop-hadoop-system-deployment-272365'>开始挑战</a>                 |
+|      3 | 📖 HDFS 架构与操作   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/hadoop-architecture-and-operations-of-hdfs-272320'>开始实验</a> |
+|      4 | 📖 YARN 架构与开发   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-yarn-architecture-and-development-272324'>开始实验</a>    |
+|      5 | 📖 Hive 快速入门     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-quick-start-to-hive-272323'>开始实验</a>                  |
+|      6 | 🎯 向 Hive 导入数据  | 初级   | <a target='_blank' href='https://labex.io/zh/labs/import-data-to-hive-272367'>开始挑战</a>                             |
 
 ## 更多
 
-- 🔗 [Hadoop Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Hadoop Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Hadoop Free Tutorials](https://github.com/labex-labs/hadoop-free-tutorials)
+- 🔗 [Hadoop 编程课程](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Hadoop 编程项目](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Hadoop 免费教程](https://github.com/labex-labs/hadoop-free-tutorials)
 
