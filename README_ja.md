@@ -32,16 +32,16 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 |   インデックス | 名前                             | 難易度   | 練習                                                                                                                     |
 |----------------|----------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------|
-|              1 | 📖 Hadoop のインストールと展開   | ★★★      | <a target='_blank' href='https://labex.io/ja/tutorials/linux-hadoop-installation-and-deployment-272321'>ラボを開始</a>   |
-|              2 | 🎯 Hadoop システムの展開         | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/hadoop-hadoop-system-deployment-272365'>チャレンジを開始</a>           |
-|              3 | 📖 HDFS のアーキテクチャと操作   | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/hadoop-architecture-and-operations-of-hdfs-272320'>ラボを開始</a> |
-|              4 | 📖 YARN のアーキテクチャと開発   | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/linux-yarn-architecture-and-development-272324'>ラボを開始</a>    |
-|              5 | 📖 Hive のクイックスタート       | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/linux-quick-start-to-hive-272323'>ラボを開始</a>                  |
-|              6 | 🎯 Hive にデータをインポートする | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/import-data-to-hive-272367'>チャレンジを開始</a>                       |
+|              1 | 📖 Hadoop のインストールと展開   | 上級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-hadoop-installation-and-deployment-272321'>ラボを開始</a>   |
+|              2 | 🎯 Hadoop システムの展開         | 初級     | <a target='_blank' href='https://labex.io/ja/labs/hadoop-hadoop-system-deployment-272365'>チャレンジを開始</a>           |
+|              3 | 📖 HDFS のアーキテクチャと操作   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/hadoop-architecture-and-operations-of-hdfs-272320'>ラボを開始</a> |
+|              4 | 📖 YARN のアーキテクチャと開発   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-yarn-architecture-and-development-272324'>ラボを開始</a>    |
+|              5 | 📖 Hive のクイックスタート       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-quick-start-to-hive-272323'>ラボを開始</a>                  |
+|              6 | 🎯 Hive にデータをインポートする | 初級     | <a target='_blank' href='https://labex.io/ja/labs/import-data-to-hive-272367'>チャレンジを開始</a>                       |
 
 ## その他
 
-- 🔗 [Hadoop Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Hadoop Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Hadoop Free Tutorials](https://github.com/labex-labs/hadoop-free-tutorials)
+- 🔗 [Hadoop プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Hadoop プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Hadoop 無料チュートリアル](https://github.com/labex-labs/hadoop-free-tutorials)
 
