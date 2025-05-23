@@ -4,9 +4,9 @@
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Quick Start with Hadoop](https://cover-creator.labex.io/quick-start-with-hadoop.png)](https://labex.io/en/courses/quick-start-with-hadoop)
+[![Quick Start with Hadoop](https://cover-creator.labex.io/quick-start-with-hadoop.png)](https://labex.io/courses/quick-start-with-hadoop)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/en/courses/quick-start-with-hadoop)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/quick-start-with-hadoop)
 
 In this course, you will learn how to install and deploy Hadoop, and how to use Hadoop to process and analyze big data. We will also introduce Hadoop's ecosystem, including HDFS, YARN, Hive, and HBase.
 
@@ -30,14 +30,14 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                   | Difficulty   | Practice                                                                                                                |
-|---------|----------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 Hadoop Installation and Deployment  | ★★★          | <a target='_blank' href='https://labex.io/en/tutorials/linux-hadoop-installation-and-deployment-272321'>Start Lab</a>   |
-|       2 | 🎯 Hadoop System Deployment            | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/hadoop-hadoop-system-deployment-272365'>Start Challenge</a>           |
-|       3 | 📖 Architecture and Operations of HDFS | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/hadoop-architecture-and-operations-of-hdfs-272320'>Start Lab</a> |
-|       4 | 📖 YARN Architecture and Development   | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/linux-yarn-architecture-and-development-272324'>Start Lab</a>    |
-|       5 | 📖 Quick Start to Hive                 | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/linux-quick-start-to-hive-272323'>Start Lab</a>                  |
-|       6 | 🎯 Import Data to Hive                 | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/import-data-to-hive-272367'>Start Challenge</a>                       |
+|   Index | Name                                   | Difficulty   | Practice                                                                                                             |
+|---------|----------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------|
+|       1 | 📖 Hadoop Installation and Deployment  | Advanced     | <a target='_blank' href='https://labex.io/tutorials/linux-hadoop-installation-and-deployment-272321'>Start Lab</a>   |
+|       2 | 🎯 Hadoop System Deployment            | Beginner     | <a target='_blank' href='https://labex.io/labs/hadoop-hadoop-system-deployment-272365'>Start Challenge</a>           |
+|       3 | 📖 Architecture and Operations of HDFS | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hadoop-architecture-and-operations-of-hdfs-272320'>Start Lab</a> |
+|       4 | 📖 YARN Architecture and Development   | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-yarn-architecture-and-development-272324'>Start Lab</a>    |
+|       5 | 📖 Quick Start to Hive                 | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-quick-start-to-hive-272323'>Start Lab</a>                  |
+|       6 | 🎯 Import Data to Hive                 | Beginner     | <a target='_blank' href='https://labex.io/labs/import-data-to-hive-272367'>Start Challenge</a>                       |
 
 ## More
 
