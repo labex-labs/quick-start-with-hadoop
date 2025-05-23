@@ -32,16 +32,16 @@ LabEx - это интерактивная практическая обучаю�
 
 |   Индекс | Название                            | Сложность   | Практика                                                                                                                         |
 |----------|-------------------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 Установка и развертывание Hadoop | ★★★         | <a target='_blank' href='https://labex.io/ru/tutorials/linux-hadoop-installation-and-deployment-272321'>Начать Лабораторию</a>   |
-|        2 | 🎯 Развертывание системы Hadoop     | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/hadoop-hadoop-system-deployment-272365'>Начать Испытание</a>                   |
-|        3 | 📖 Архитектура и операции HDFS      | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/hadoop-architecture-and-operations-of-hdfs-272320'>Начать Лабораторию</a> |
-|        4 | 📖 Архитектура и разработка YARN    | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/linux-yarn-architecture-and-development-272324'>Начать Лабораторию</a>    |
-|        5 | 📖 Быстрый старт с Hive             | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/linux-quick-start-to-hive-272323'>Начать Лабораторию</a>                  |
-|        6 | 🎯 Импорт данных в Hive             | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/import-data-to-hive-272367'>Начать Испытание</a>                               |
+|        1 | 📖 Установка и развертывание Hadoop | Продвинутый | <a target='_blank' href='https://labex.io/ru/tutorials/linux-hadoop-installation-and-deployment-272321'>Начать Лабораторию</a>   |
+|        2 | 🎯 Развертывание системы Hadoop     | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/hadoop-hadoop-system-deployment-272365'>Начать Испытание</a>                   |
+|        3 | 📖 Архитектура и операции HDFS      | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/hadoop-architecture-and-operations-of-hdfs-272320'>Начать Лабораторию</a> |
+|        4 | 📖 Архитектура и разработка YARN    | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-yarn-architecture-and-development-272324'>Начать Лабораторию</a>    |
+|        5 | 📖 Быстрый старт с Hive             | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-quick-start-to-hive-272323'>Начать Лабораторию</a>                  |
+|        6 | 🎯 Импорт данных в Hive             | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/import-data-to-hive-272367'>Начать Испытание</a>                               |
 
 ## Больше
 
-- 🔗 [Hadoop Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Hadoop Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Hadoop Free Tutorials](https://github.com/labex-labs/hadoop-free-tutorials)
+- 🔗 [Hadoop Курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Hadoop Проекты программирования](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Hadoop Бесплатные туториалы](https://github.com/labex-labs/hadoop-free-tutorials)
 
