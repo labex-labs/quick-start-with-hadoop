@@ -32,16 +32,16 @@ Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-
 
 |   Index | Name                                    | Schwierigkeit   | Übung                                                                                                                       |
 |---------|-----------------------------------------|-----------------|-----------------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 Hadoop Installation und Deployment   | ★★★             | <a target='_blank' href='https://labex.io/de/tutorials/linux-hadoop-installation-and-deployment-272321'>Labor Starten</a>   |
-|       2 | 🎯 Hadoop-Systemdeployment              | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/hadoop-hadoop-system-deployment-272365'>Challenge Starten</a>             |
-|       3 | 📖 Architektur und Operationen von HDFS | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/hadoop-architecture-and-operations-of-hdfs-272320'>Labor Starten</a> |
-|       4 | 📖 YARN Architektur und Entwicklung     | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/linux-yarn-architecture-and-development-272324'>Labor Starten</a>    |
-|       5 | 📖 Schnellstart zu Hive                 | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/linux-quick-start-to-hive-272323'>Labor Starten</a>                  |
-|       6 | 🎯 Daten in Hive importieren            | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/import-data-to-hive-272367'>Challenge Starten</a>                         |
+|       1 | 📖 Hadoop Installation und Deployment   | Experte         | <a target='_blank' href='https://labex.io/de/tutorials/linux-hadoop-installation-and-deployment-272321'>Labor Starten</a>   |
+|       2 | 🎯 Hadoop-Systemdeployment              | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/hadoop-hadoop-system-deployment-272365'>Challenge Starten</a>             |
+|       3 | 📖 Architektur und Operationen von HDFS | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/hadoop-architecture-and-operations-of-hdfs-272320'>Labor Starten</a> |
+|       4 | 📖 YARN Architektur und Entwicklung     | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-yarn-architecture-and-development-272324'>Labor Starten</a>    |
+|       5 | 📖 Schnellstart zu Hive                 | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-quick-start-to-hive-272323'>Labor Starten</a>                  |
+|       6 | 🎯 Daten in Hive importieren            | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/import-data-to-hive-272367'>Challenge Starten</a>                         |
 
 ## Mehr
 
-- 🔗 [Hadoop Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Hadoop Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Hadoop Free Tutorials](https://github.com/labex-labs/hadoop-free-tutorials)
+- 🔗 [Hadoop Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Hadoop Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Hadoop Kostenlose Tutorials](https://github.com/labex-labs/hadoop-free-tutorials)
 
