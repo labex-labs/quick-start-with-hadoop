@@ -32,16 +32,16 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 |   인덱스 | 이름                     | 난이도   | 연습                                                                                                                    |
 |----------|--------------------------|----------|-------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 Hadoop 설치 및 배포   | ★★★      | <a target='_blank' href='https://labex.io/ko/tutorials/linux-hadoop-installation-and-deployment-272321'>실습 시작</a>   |
-|        2 | 🎯 Hadoop 시스템 배포    | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/hadoop-hadoop-system-deployment-272365'>도전 시작</a>                 |
-|        3 | 📖 HDFS 아키텍처 및 운영 | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/hadoop-architecture-and-operations-of-hdfs-272320'>실습 시작</a> |
-|        4 | 📖 YARN 아키텍처 및 개발 | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/linux-yarn-architecture-and-development-272324'>실습 시작</a>    |
-|        5 | 📖 Hive 퀵 스타트        | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/linux-quick-start-to-hive-272323'>실습 시작</a>                  |
-|        6 | 🎯 Hive 데이터 가져오기  | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/import-data-to-hive-272367'>도전 시작</a>                             |
+|        1 | 📖 Hadoop 설치 및 배포   | 고급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-hadoop-installation-and-deployment-272321'>실습 시작</a>   |
+|        2 | 🎯 Hadoop 시스템 배포    | 초급     | <a target='_blank' href='https://labex.io/ko/labs/hadoop-hadoop-system-deployment-272365'>도전 시작</a>                 |
+|        3 | 📖 HDFS 아키텍처 및 운영 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hadoop-architecture-and-operations-of-hdfs-272320'>실습 시작</a> |
+|        4 | 📖 YARN 아키텍처 및 개발 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-yarn-architecture-and-development-272324'>실습 시작</a>    |
+|        5 | 📖 Hive 퀵 스타트        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-quick-start-to-hive-272323'>실습 시작</a>                  |
+|        6 | 🎯 Hive 데이터 가져오기  | 초급     | <a target='_blank' href='https://labex.io/ko/labs/import-data-to-hive-272367'>도전 시작</a>                             |
 
 ## 더 보기
 
-- 🔗 [Hadoop Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Hadoop Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Hadoop Free Tutorials](https://github.com/labex-labs/hadoop-free-tutorials)
+- 🔗 [Hadoop 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Hadoop 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Hadoop 무료 튜토리얼](https://github.com/labex-labs/hadoop-free-tutorials)
 
